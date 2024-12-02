@@ -19,5 +19,3 @@ To run the application locally or on a server, the following are required:
 - Docker Compose
 - AWS EC2 instance (if deploying on AWS)
 - MongoDB instance (can use MongoDB Atlas or a local instance)
-
-
