@@ -1,6 +1,7 @@
 # FastAPI App
 
-This is a FastAPI application deployed on an AWS EC2 instance with MongoDB as the database.
+This is a FastAPI application deployed on an AWS EC2 instance with MongoDB as the database. This Backend API application is used for the student management system.
+
 
 ## Features
 
@@ -8,7 +9,6 @@ This is a FastAPI application deployed on an AWS EC2 instance with MongoDB as th
 - Deployed on AWS EC2 instance.
 - Dockerized setup for easy deployment and scaling.
 - MongoDB database integration.
-- SSL/TLS secured connection using Nginx reverse proxy (optional).
 
 ## Requirements
 
